@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 // Add Your Session Id Start With KIRA-MD Hear
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "ARSLAN-MD~eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWUpqQmNseDh6LzFwNm13My85Z3ZvZ2VpdVlMdjdyQlpLdVRsd1BBM0lIMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMDVvSmlhQXJaSVdoVlFkcW1GYUoxVG13Yy8rcXEvL2g1NWltWlgrdHdoYz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJrTlNYUHNweVFLRVd0TVpzbnY0a3FvUnhjNW1BUWdkQlFaeHA0WEVoYVgwPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVWXJkaGpBbUk1VEgrSFZremZjeGNNK2V3bklIYjE4MzQySjhreGg2KzFjPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IllLS3pZbjE0ZnQ0QVNnZ2JQRHFyUEdYRnphLzk1TEhkUnZHNCtzb0ZGR1U9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IklNeFRNU2hBSEo5bG1vMjlaWHl2OVB4b3RJbTd4UytESzFQOWFISnlpSFk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiR0h3emtqNzQrSXI2dURzTkZYNlZLS1kvWEI2N2ZwQU5QTVpIRVZuRGhHWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVGZ5TmpLRHVNNkx6eG93eml6TEpzekxESmo3aUhEZ2Y1YkdXczgxQ3ZqTT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InRIMkNJMVpwSmRRcE1qZS9CcHIzZ29lcmFHcHpxR0cybzFFU0hFM0lvM3VnMGVtVERBS2thYmZrUXRVWkJQZWdtZk1vTHJsV0h6YWZKcHlXMGRQMEJRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTQwLCJhZHZTZWNyZXRLZXkiOiJNSm93Mmt1TFBDaVdGOVowWklXaHBVenJnTE9GV0VacFFZa3B4SjNMY0tnPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6ODE2LCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6ODE2LCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJyZWdpc3RlcmVkIjp0cnVlLCJwYWlyaW5nQ29kZSI6IlNCRDVTRzZTIiwibWUiOnsiaWQiOiI5MjMxMTg5ODM0NDg6MjJAcy53aGF0c2FwcC5uZXQiLCJsaWQiOiIxMjM2MjI2OTc5OTYzODU6MjJAbGlkIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNJNkgzWUFHRU1YenZNOEdHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiI2UjNaM3J3T0tOQ0FhZ2NlL3AyRTJwMFZqOEpkQ2dSRDY1OGJBcUJzWkVRPSIsImFjY291bnRTaWduYXR1cmUiOiJySWlXc21iVHdJdDNZMlgrSXpCc205dGVKVGFEVXZWU2w3QmtQNDJEQ0ovUzNEb2dudTZHbEg4ZHdhcmE5cmFKSUV1VDNza2swNVRMbEhEMUdHV1pCZz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiUlgxZm15TzM2NkhQeldNZ1RNTEMzWFlaV0hJNXRIMENUeHZkemlhNWtIalN3Ynk1T2gybHNUU2xjUFpvc2xEeW83YmtqMUVFME1tMHoyNTNUdjF1REE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIxMjM2MjI2OTc5OTYzODU6MjJAbGlkIiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmVrZDJkNjhEaWpRZ0dvSEh2NmRoTnFkRlkvQ1hRb0VRK3VmR3dLZ2JHUkUifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJyb3V0aW5nSW5mbyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkNBc0lDUWdOIn0sImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTc3NzI4NTU4MH0=",
 // KIRA MD Api Site Url
 API_BASE: process.env.API_BASE || "https://arslan-apis.vercel.app/",
 // KIRA MD Api Key -- Add This To Your Api Key Form Api Site
@@ -18,7 +18,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY KASHMIRI-MD 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY KIRA-MD 🤍*",
 
 AUTO_BIO: process.env.AUTO_BIO || "true",
 // true if want welcome msg in groups
@@ -28,9 +28,9 @@ ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
 // make true to know who dismiss or promoted a member in group
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "KASHMIRI-MD",
+BOT_NAME: process.env.BOT_NAME || "KIRA-MD",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "KASHMIRI-MD",
+STICKER_NAME: process.env.STICKER_NAME || "KIRA-MD",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -38,9 +38,9 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923247947238",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923237045919",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Zoraib Official",
+OWNER_NAME: process.env.OWNER_NAME || "ArslanMD Official",
 
 SEND_WELCOME: process.env.SEND_WELCOME || "true",
 // add alive msg here 
@@ -73,7 +73,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "true",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "923247947238",
+DEV: process.env.DEV || "923237045919",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 
